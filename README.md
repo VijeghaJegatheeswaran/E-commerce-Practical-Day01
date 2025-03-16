@@ -1,1 +1,2 @@
 # E-commerce-Practical-Day01
+Java Fundamentals task list:-This repository contains Java programs covering basic operations to object-oriented programming, including printing, looping, number manipulation, student management, book hierarchy, and a retail store system.
